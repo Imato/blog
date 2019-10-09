@@ -3,8 +3,8 @@ languageCode = "en-us"
 title = "Alexey Varentsov"
 paginate = "10" # Number of posts per page
 theme = "binario"
-disqusShortname = "" # Enable comments by entering your Disqus shortname
-googleAnalytics = "" # Enable Google Analytics by entering your tracking id
+disqusShortname = "https-imato-github-io-blog" # Enable comments by entering your Disqus shortname
+googleAnalytics = "UA-149755998-1" # Enable Google Analytics by entering your tracking id
 
 [Author] # Used in authorbox
   name = "Alexey Varentsov"
@@ -38,12 +38,11 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Params.Social]
   email = "alexey.varentsov@gmail.com"
-  facebook = "alexey.varentsov"
+  facebook = "aleksey.varentsov"
   twitter = "geroinych"
   telegram = "geroinych"
   instagram = "geroinych"
-  pinterest = "alexey.varentsov"
-  vk = "alexey.varentsov"
+  vk = "aleksey.varentsov"
   linkedin = "geroinych"
   github = "imato"
   # gitlab = "alexey.varentsov"
