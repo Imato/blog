@@ -1,6 +1,6 @@
 baseURL = "https://imato.github.io/blog/"
 languageCode = "en-us"
-title = "Alexey Varentsov Blog"
+title = "Alexey Varentsov"
 paginate = "10" # Number of posts per page
 theme = "binario"
 disqusShortname = "" # Enable comments by entering your Disqus shortname

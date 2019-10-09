@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tools on Alexey Varentsov</title>
+    <link>https://imato.github.io/blog/categories/tools/</link>
+    <description>Recent content in Tools on Alexey Varentsov</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Oct 2019 00:59:01 +0300</lastBuildDate>
+    
+	<atom:link href="https://imato.github.io/blog/categories/tools/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My Tools</title>
+      <link>https://imato.github.io/blog/posts/my-tools/</link>
+      <pubDate>Thu, 10 Oct 2019 00:59:01 +0300</pubDate>
+      
+      <guid>https://imato.github.io/blog/posts/my-tools/</guid>
+      <description>Web Hudo - static site generator</description>
+    </item>
+    
+  </channel>
+</rss>

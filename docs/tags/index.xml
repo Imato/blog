@@ -1,14 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Alexey Varentsov Blog</title>
+    <title>Tags on Alexey Varentsov</title>
     <link>https://imato.github.io/blog/tags/</link>
-    <description>Recent content in Tags on Alexey Varentsov Blog</description>
+    <description>Recent content in Tags on Alexey Varentsov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 10 Oct 2019 00:59:01 +0300</lastBuildDate>
     
 	<atom:link href="https://imato.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tools</title>
+      <link>https://imato.github.io/blog/tags/tools/</link>
+      <pubDate>Thu, 10 Oct 2019 00:59:01 +0300</pubDate>
+      
+      <guid>https://imato.github.io/blog/tags/tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contacts</title>
+      <link>https://imato.github.io/blog/tags/contacts/</link>
+      <pubDate>Thu, 10 Oct 2019 00:53:31 +0300</pubDate>
+      
+      <guid>https://imato.github.io/blog/tags/contacts/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

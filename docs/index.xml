@@ -1,23 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Alexey Varentsov Blog</title>
+    <title>Alexey Varentsov</title>
     <link>https://imato.github.io/blog/</link>
-    <description>Recent content on Alexey Varentsov Blog</description>
+    <description>Recent content on Alexey Varentsov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Oct 2019 00:12:46 +0300</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2019 00:59:01 +0300</lastBuildDate>
     
 	<atom:link href="https://imato.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>My First Post</title>
-      <link>https://imato.github.io/blog/posts/my-first-post/</link>
-      <pubDate>Thu, 10 Oct 2019 00:12:46 +0300</pubDate>
+      <title>My Tools</title>
+      <link>https://imato.github.io/blog/posts/my-tools/</link>
+      <pubDate>Thu, 10 Oct 2019 00:59:01 +0300</pubDate>
       
-      <guid>https://imato.github.io/blog/posts/my-first-post/</guid>
-      <description> Title </description>
+      <guid>https://imato.github.io/blog/posts/my-tools/</guid>
+      <description>Web Hudo - static site generator</description>
+    </item>
+    
+    <item>
+      <title>Contacts</title>
+      <link>https://imato.github.io/blog/posts/my-contacts/</link>
+      <pubDate>Thu, 10 Oct 2019 00:53:31 +0300</pubDate>
+      
+      <guid>https://imato.github.io/blog/posts/my-contacts/</guid>
+      <description>You can find all my contact information by links bellow.
+Please, write me then you will have a question or same problem. I will be glad to help you really.
+Thank you!
+Alexey</description>
     </item>
     
   </channel>
